@@ -1079,3 +1079,5 @@ This should return an empty list if the cluster was deleted successfully.
 ---
 
 After completing these steps, your cluster and related resources should be fully removed.
+
+link: https://youtu.be/Kbvch_swZWA?si=wVbp2jt-6KeddOcH
